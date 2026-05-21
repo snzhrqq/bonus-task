@@ -14,7 +14,7 @@ This project implements Dijkstra's algorithm using an adjacency list representat
 
 ```
 .
-├── dijkstra.py   # Main source file
+├── bonus task.py   # Main source file
 └── README.md
 ```
 
@@ -146,4 +146,10 @@ Where **V** = number of vertices, **E** = number of edges.
 For large sparse graphs, consider replacing the linear scan with a priority queue (`heapq`) to achieve **O((V + E) log V)**.
 
 ## Screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-21 191733" src="https://github.com/user-attachments/assets/007463a2-93a0-4400-8833-a9bc595e3b8d" />
+<img width="1919" height="1072" alt="Screenshot 2026-05-21 191743" src="https://github.com/user-attachments/assets/ed78124c-70f2-4f3c-a5fe-5f746b3b5eec" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-21 191751" src="https://github.com/user-attachments/assets/71e1bdc9-bdd4-4408-a34a-34c7aa2e6b9e" />
+
+
 
