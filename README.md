@@ -10,6 +10,10 @@ This project implements Dijkstra's algorithm using an adjacency list representat
 
 ---
 
+## Explanation
+
+The algorithm maintains a set of unvisited vertices and greedily picks the one with the smallest known distance at each step. Starting from vertex `0`, it relaxes all outgoing edges — updating a neighbor's distance if a shorter path is found through the current vertex. This repeats until all reachable vertices are finalized.
+
 ## Project Structure
 
 ```
